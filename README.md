@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework"   alt="License"></a>
 </p>
 
-<p align="center"><a href="https://skycodelab.io" target="_blank"><img src="https://skycodelab.io//uploads/site/logo.png" width="200" alt="Sky Code Lab Logo"></a>🫸🫷</p>
+<p align="center"><a href="https://skycodelab.in" target="_blank"><img src="https://skycodelab.in/public/uploads/site/logo.png" width="200" alt="Sky Code Lab Logo"></a></p>
 
 <p>☺️ Latest Laravel v 10.45</p>
 <p>😘Vuejs v 3.4.0 </p>
@@ -22,15 +22,15 @@
 </p>
 
 
-<p>- 👉 install composer</p>
+<p>- 👉 composer install </p>
 <p> - 👉 create a db [db name db username db password] </p>
 <p> - 👉 copy .env.example </p>
 <p> - 👉 rename .env </p>
 <p>- 👉 update db name db username db password </p>
 <p>- 👉 php artisan key:generate </p>
 <p>- 👉 php artisan migrate --seed</p>
-<p>- 👉 yarn install</p>
-<p>- 👉 yarn dev</p>
+<p>- 👉 npm Install or yarn install</p>
+<p>- 👉 npm run dev or yarn dev</p>
 <p>- 👉 php artisan serve</p>
 <p>- 👉 registration for first user admin</p>
 <p>- 👉 clear a cache hit this link your local server http://127.0.0.1:8000/clear</p>
@@ -41,14 +41,29 @@
 <table>
 <thead>
 <tr>
+<th align="center">Latest Update 🫸🏻🫷🏻 Admin Dashboard</th>
+<th align="center">👇🏻 Components Buttion & Heading</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="https://skycodelab.in/public/git/dashbord-latest.png" alt=""style="max-width: 100%;"></td>
+<td align="center"><img src="https://skycodelab.in/public/git/component-buttion.png" alt="" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
 <th align="center">Admin 🫸🏻🫷🏻 Dashboard</th>
 <th align="center">👇🏻 Staff</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://skycodelab.io//git/admindashbord.png" alt=""style="max-width: 100%;"></td>
-<td align="center"><img src="https://skycodelab.io//git/staff.png" alt="" style="max-width: 100%;"></a></td>
+<td align="center"><img src="https://skycodelab.in/public/git/admindashbord.png" alt=""style="max-width: 100%;"></td>
+<td align="center"><img src="https://skycodelab.in/public/git/staff.png" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -62,8 +77,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://skycodelab.io//git/profile.png" alt=""style="max-width: 100%;"></td>
-<td align="center"><img src="https://skycodelab.io//git/login.png" alt="" style="max-width: 100%;"></a></td>
+<td align="center"><img src="https://skycodelab.in/public/git/profile.png" alt=""style="max-width: 100%;"></td>
+<td align="center"><img src="https://skycodelab.in/public/git/login.png" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -78,8 +93,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://skycodelab.io//git/signup.png" alt=""style="max-width: 100%;"></td>
-<td align="center"><img src="https://skycodelab.io//git/roll.png" alt="" style="max-width: 100%;"></a></td>
+<td align="center"><img src="https://skycodelab.in/public/git/signup.png" alt=""style="max-width: 100%;"></td>
+<td align="center"><img src="https://skycodelab.in/public/git/roll.png" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -94,8 +109,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://skycodelab.io//git/mobile.png" alt=""style="max-width: 100%;"></td>
-<td align="center"><img src="https://skycodelab.io//git/sidebar.png" alt="" style="max-width: 100%;"></a></td>
+<td align="center"><img src="https://skycodelab.in/public/git/mobile.png" alt=""style="max-width: 100%;"></td>
+<td align="center"><img src="https://skycodelab.in/public/git/sidebar.png" alt="" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
